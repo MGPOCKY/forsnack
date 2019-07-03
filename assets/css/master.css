@@ -5,7 +5,7 @@ p{
   font-family: 'Do Hyeon', sans-serif;
 }
 
-h1, h2{
+h1, h2, h3{
   font-family: 'Jua', sans-serif;
 }
 
@@ -45,11 +45,17 @@ a{
 .content h2{
   font-size: 25px;
 }
+.content h3{
+  font-size: 15px;
+}
 .post-info h1{
   font-size: 50px;
 }
 .post-info h2{
   font-size: 35px;
+}
+.post-info h2{
+  font-size: 25px;
 }
 .post-info hr{
   border: none;
