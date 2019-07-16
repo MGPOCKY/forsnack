@@ -13,6 +13,10 @@ a{
   text-decoration: none;
   color: #646464;
 }
+body{
+  margin: 0;
+  padding: 0;
+}
 #main .content {
   background: #ffffff;
   border-radius: 4px;
@@ -74,6 +78,7 @@ a{
       max-width: calc(100% - 3rem); } }
 
 .wrapper {
+  background-color: gainsboro;
   padding: 8rem 0 6rem 0 ;
   position: relative;
   z-index: 1; }
